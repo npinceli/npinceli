@@ -3,6 +3,8 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=npinceli&show_icons=true&count_private=true&hide_border=true&title_color=C83359&icon_color=C83359&text_color=c9d1d9&bg_color=0d1117" alt="Nicolas Pinceli github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npinceli&layout=compact&hide_border=true&title_color=C83359&text_color=00bfbf&bg_color=0d1117" />
+</div>
   
 
 <!--6FDE7B-->
@@ -10,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nicolas-henrique-pinceli-matenauer-394349252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas henrique pinceli matenauer" height="30" width="40" /></a>
-<a href="https://instagram.com/npinceli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="npinceli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and tools I'm learning:</h3>
