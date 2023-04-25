@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/nicolas-pinceli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas henrique pinceli matenauer" height="30" width="40" /></a>
 </p>
 
-<p><img width="42%" align="left" src="https://github-readme-stats.vercel.app/api?username=npinceli&show_icons=true&theme=transparent&title_color=3572A5&text_color=BBBFBA&hide_border=true&hide_rank=true&locale=en" alt="npinceli" /></p>
+<p><img width="42%" align="left" src="https://github-readme-stats.vercel.app/api?username=npinceli&show_icons=true&theme=transparent&title_color=3572A5&text_color=959994&hide_border=true&hide_rank=true&locale=en" alt="npinceli" /></p>
 
-<p><img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=npinceli&show_icons=true&theme=transparent&title_color=3572A5&text_color=BBBFBA&hide_border=true&locale=en&layout=compact" alt="npinceli" /></p>
+<p><img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=npinceli&show_icons=true&theme=transparent&title_color=3572A5&text_color=959994&hide_border=true&locale=en&layout=compact" alt="npinceli" /></p>
 
