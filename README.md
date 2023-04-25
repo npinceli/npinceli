@@ -29,6 +29,6 @@
 
 <h3>Stats</h3>
 
-| <a> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=npinceli&show_icons=true&include_all_commits=true&theme=transparent&title_color=transparent&hide_border=true&hide_rank=true%rank_icon=default&locale=en" alt="npinceli" /> </a> | <a> <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=npinceli&show_icons=true&theme=transparent&title_color=transparent&icon_color=DB426A&hide_border=true&locale=en&layout=compact" alt="npinceli" /> </a> | 
+| <a> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=npinceli&show_icons=true&theme=transparent&title_color=transparent&hide_border=true&hide_rank=true%rank_icon=default&include_all_commits=true&locale=en" alt="npinceli" /> </a> | <a> <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=npinceli&show_icons=true&theme=transparent&title_color=transparent&icon_color=DB426A&hide_border=true&locale=en&layout=compact" alt="npinceli" /> </a> | 
 | ------------- | ------------- |
 
