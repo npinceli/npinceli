@@ -5,6 +5,12 @@
 *   🌍  I'm based in São Paulo, Brazil.
 *   🧠  Currently learning JavaScript.
 
+<h3>Connect with me</h3>
+<p>
+<a href="https://www.linkedin.com/in/nicolas-pinceli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas henrique pinceli matenauer" height="30" width="40" /></a>
+</p>
+
+
 <h3>Languages and tools</h3>
 <p>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -21,12 +27,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<h3>Connect with me</h3>
-<p>
-<a href="https://www.linkedin.com/in/nicolas-pinceli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas henrique pinceli matenauer" height="30" width="40" /></a>
-</p>
 
-<p><img width="42%" align="left" src="https://github-readme-stats.vercel.app/api?username=npinceli&show_icons=true&theme=transparent&title_color=3572A5&text_color=959994&hide_border=true&hide_rank=true&locale=en" alt="npinceli" /></p>
+<p><img width="42%" align="left" src="https://github-readme-stats.vercel.app/api?username=npinceli&show_icons=true&theme=transparent&title_color=DB426A&text_color=theme&icon_color=DB426A&hide_border=true&hide_rank=true&locale=en" alt="npinceli" /></p>
 
-<p><img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=npinceli&show_icons=true&theme=transparent&title_color=3572A5&text_color=959994&hide_border=true&locale=en&layout=compact" alt="npinceli" /></p>
+<p><img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=npinceli&show_icons=true&theme=transparent&title_color=DB426A&text_color=theme&icon_color=DB426A&hide_border=true&locale=en&layout=compact" alt="npinceli" /></p>
 
