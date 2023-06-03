@@ -1,6 +1,6 @@
 <h1>Hi :wave:, I'm Nicolas Pinceli</h1>
 
-<h2>I'm a student</h2>
+<h2>About me</h2>
 
 *   🌍  I'm based in São Paulo, Brazil.
 *   🧠  Currently learning JavaScript.
