@@ -4,8 +4,6 @@
 
 *   🌍  I'm based in São Paulo, Brazil.
 *   🧠  Currently learning JavaScript.
-*   💻  Computer Science at FMU.
-*   📘  Studying english at Wizard.
 
 <h3>Connect with me</h3>
 <p>
