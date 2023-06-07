@@ -27,9 +27,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<!--
 <h3>Stats</h3>
 
 | <a> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=npinceli&show_icons=true&theme=transparent&title_color=transparent&hide_border=true&rank_icon=default&locale=en" alt="npinceli" /> </a> | <a> <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=npinceli&show_icons=true&theme=transparent&title_color=transparent&icon_color=DB426A&hide_border=true&locale=en&layout=compact" alt="npinceli" /> </a> | 
 | ------------- | ------------- |
 
+-->
 
