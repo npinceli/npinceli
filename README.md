@@ -2,13 +2,13 @@
 
 ## Languages and Tools:
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask)](https://skillicons.dev)
 
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
 #### Database
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
 
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,obsidian)](https://skillicons.dev)
